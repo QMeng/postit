@@ -1,2 +1,4 @@
 **/node_modules/
 **/.parcel-cache/
+**/public/
+fe/public/dist/index.html
